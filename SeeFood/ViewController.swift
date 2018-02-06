@@ -23,7 +23,6 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         imagePicker.sourceType = .camera
         imagePicker.allowsEditing = false
         
-        
     }
     
     func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [String : Any]) {
