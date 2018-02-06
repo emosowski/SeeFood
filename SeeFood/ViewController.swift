@@ -35,6 +35,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         }
         
         imagePicker.dismiss(animated: true, completion: nil)
+        
     }
 
     @IBAction func cameraTapped(_ sender: UIBarButtonItem) {

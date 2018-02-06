@@ -32,6 +32,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" id="FZT-a1-84m">
+                        <nil key="title"/>
                         <barButtonItem key="rightBarButtonItem" systemItem="camera" id="PNw-bZ-4NW">
                             <connections>
                                 <action selector="cameraTapped:" destination="BYZ-38-t0r" id="MMt-1E-bY8"/>
